@@ -1,4 +1,4 @@
-[![Social banner for PixelPlayzXD](https://github.com/PixelPlayzXD/PixelPlayzXD/blob/main/Main.png)](https://pixelplayz.ga)
+[![Social banner for PixelPlayzXD](https://github.com/PixelPlayzXD/PixelPlayzXD/blob/main/Main.png?raw=true)](https://pixelplayz.ga)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm PixelPlayz.
